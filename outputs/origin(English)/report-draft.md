@@ -658,4 +658,6 @@ To be completed by the group after reviewing the generated ADD results and the c
 
 | Name (Chinese) | Contributions |
 | --- | --- |
-|  |  |
+|  | Built the Spring Boot + Spring AI Alibaba single-agent application, configured the Qwen3-32B DashScope API integration, and fixed runtime issues related to CLI startup, API key loading, and request timeout settings. |
+|  | Extracted and organized the ADD 3.0 method and Hotel Pricing System prior knowledge from the assignment PDF, then designed the fixed four-iteration ADD workflow and self-reflection mechanism for the single Agent. |
+|  | Generated and organized the complete conversation log, ADD outputs, and report draft, including English original outputs and Chinese-readable versions for review and presentation. |
