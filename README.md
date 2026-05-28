@@ -2,6 +2,17 @@
 
 This project implements Option 2 of the assignment: a single Agent using sequential reasoning and self-reflection to apply ADD 3.0 to the Hotel Pricing System case study.
 
+## Submission Files
+
+For the assignment requirements, the key single-agent deliverables are located here:
+
+- Source code: this repository.
+- Complete LLM conversation log with timestamps: `outputs/origin(English)/conversation-log.jsonl`.
+- Readable Markdown version of the conversation log: `outputs/origin(English)/conversation-log.md`.
+- English report source: `outputs/origin(English)/report-draft.md`.
+- Final PDF report: `report-draft.pdf`.
+- Chinese reference versions: `outputs/chinese/`.
+
 ## Runtime
 
 - Java 17+
@@ -65,6 +76,8 @@ After a successful run, the application writes:
 - `outputs/conversation-log.jsonl`
 - `outputs/add-results.md`
 - `outputs/report-draft.md`
+
+In this submitted repository, the original English outputs have been archived under `outputs/origin(English)/`, and Chinese-readable reference files have been placed under `outputs/chinese/`.
 
 ## Tests
 
