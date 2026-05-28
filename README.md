@@ -10,7 +10,7 @@ For the assignment requirements, the key single-agent deliverables are located h
 - Complete LLM conversation log with timestamps: `outputs/origin(English)/conversation-log.jsonl`.
 - Readable Markdown version of the conversation log: `outputs/origin(English)/conversation-log.md`.
 - English report source: `outputs/origin(English)/report-draft.md`.
-- Final PDF report: `report-draft.pdf`.
+- Final PDF report: `report.pdf`.
 - Chinese reference versions: `outputs/chinese/`.
 
 ## Runtime
