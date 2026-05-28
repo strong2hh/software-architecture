@@ -189,6 +189,6 @@ graph TD
 
 | 姓名（中文） | 贡献 |
 | --- | --- |
-|  | 搭建 Spring Boot + Spring AI Alibaba 单 Agent 程序，配置 Qwen3-32B DashScope API 接入，并处理 CLI 启动、API Key 读取和请求超时等运行问题。 |
-|  | 从作业 PDF 中整理 ADD 3.0 方法和 Hotel Pricing System 先验知识，设计固定四轮 ADD 自动执行流程和 self-reflection 机制。 |
-|  | 生成并整理完整对话日志、ADD 输出和报告草稿，同时归档英文原版输出并制作中文可读版本，便于检查和展示。 |
+| 王其亮 | 搭建 Spring Boot + Spring AI Alibaba 单 Agent 程序，配置 Qwen3-32B DashScope API 接入，并处理 CLI 启动、API Key 读取和请求超时等运行问题。 |
+| 廖之乾 | 从作业 PDF 中整理 ADD 3.0 方法和 Hotel Pricing System 先验知识，设计固定四轮 ADD 自动执行流程和 self-reflection 机制。 |
+| 谢宪喜 | 生成并整理完整对话日志、ADD 输出和报告草稿，同时归档英文原版输出并制作中文可读版本，便于检查和展示。 |
